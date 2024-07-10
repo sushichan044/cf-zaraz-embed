@@ -12,7 +12,7 @@ const Page = () => {
       <section>
         <h2>Instagram</h2>
         <Instagram
-          postUrl="https://www.instagram.com/cloudflare/p/C9PkJzks2lW"
+          postUrl="https://www.instagram.com/p/C9PkJzks2lW"
           showCaption
         />
       </section>
