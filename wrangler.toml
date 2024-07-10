@@ -1,6 +1,9 @@
 name = "cf-zaraz-embed"
 pages_build_output_dir = "./dist"
 
+[vars]
+NODE_VERSION = "20"
+PNPM_VERSION = "9"
 # [vars]
 # MY_VAR = "my-variable"
 
